@@ -307,9 +307,9 @@ h2{
 
 @media screen and (max-width: 360px) {
     .logo {
-        width: 140px;
-        height: 140px;
-        padding-left: 13%;
+        width: 160px;
+        height: 160px;
+        padding-left: 17%;
     }
 }
 
