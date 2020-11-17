@@ -284,6 +284,9 @@ footer {
     footer{
         height: 200px;
     }
+    footer p{
+        font-size: 12px;
+    }
 
     .post-image {
         height: 80px;
