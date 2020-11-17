@@ -265,6 +265,9 @@ footer {
             padding-left: 20%;
 
         }
+        footer{
+            height: 200px;
+        }
     }
 @media screen and (max-width: 350px) {
 
@@ -272,7 +275,7 @@ footer {
         padding-left: 10%;
     }
     footer{
-        height: 170px;
+        height: 200px;
     }
 
 }
